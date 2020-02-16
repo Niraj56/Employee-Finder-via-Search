@@ -1,0 +1,25 @@
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\bin\Debug\CCEMPLOYEE.mdb
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\obj\Debug\WindowsApp2.Emplyee.resources
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\obj\Debug\Employee.vbproj.GenerateResource.cache
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\obj\Debug\Employee.vbproj.CoreCompileInputs.cache
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\ntiwa\Desktop\NirakarShresthaProject4\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\bin\Debug\CCEMPLOYEE.mdb
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\obj\Debug\Employee.vbprojAssemblyReference.cache
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\obj\Debug\WindowsApp2.Emplyee.resources
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\obj\Debug\Employee.vbproj.GenerateResource.cache
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\obj\Debug\Employee.vbproj.CoreCompileInputs.cache
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\ntiwa\Niraj project 4\WindowsApp2\obj\Debug\WindowsApp2.pdb
